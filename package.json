@@ -1,0 +1,14 @@
+{
+  "name": "tesselApp",
+  "version": "0.1.1",
+  "description": "Connect to Tessel and store temp and humidity",
+  "main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:Mennodebrie/tesselApp.git"
+	},
+  "dependencies": {
+    "websocket": "*",
+    "mongodb": "*"
+  }
+}
